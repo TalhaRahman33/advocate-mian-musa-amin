@@ -7,6 +7,9 @@ import ServicesSection from "./components/ServicesSection";
 import BannerSection from "./components/BannerSection";
 import Contact from "./components/Contact";
 import PracticeAreas from "./components/practiceAreas";
+import WhatsAppButton from "./components/WhatsAppButton";
+import GoToTopButton from "./components/GoToTopButton";
+import PhoneButton from "./components/PhoneButton";
 
 export default function Home() {
   return (
@@ -23,6 +26,9 @@ export default function Home() {
       <Contact />
 
       <Footer />
+      <WhatsAppButton />
+      <PhoneButton />
+      <GoToTopButton />
     </>
   );
 }

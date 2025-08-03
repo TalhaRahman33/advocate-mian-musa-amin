@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
-// Add your lawyer image in public folder
+import Link from "next/link";
+
 
 const AboutSection = () => {
   return (
@@ -35,9 +36,11 @@ const AboutSection = () => {
             is handled with precision, integrity, and the highest level of
             professionalism to achieve the best possible outcome for his clients.
           </p>
+          <Link href="/contact">
           <button className="bg-blue-700 text-white px-6 py-2 rounded-md mt-4 hover:bg-blue-800 transition duration-200">
             Book a Consultation
           </button>
+          </Link>
         </div>
       </div>
     </section>
