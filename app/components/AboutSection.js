@@ -36,6 +36,21 @@ const AboutSection = () => {
             is handled with precision, integrity, and the highest level of
             professionalism to achieve the best possible outcome for his clients.
           </p>
+          <p className="text-gray-700 text-lg leading-7 mb-6">
+            Whether you need assistance with criminal defense, family disputes,
+            corporate legal issues, or property matters, Advocate Musa Amin is
+            committed to providing expert legal advice and representation.
+          </p>
+          <p className="text-gray-700 text-lg leading-7 mb-6">
+            Contact us today to schedule a consultation and let Advocate Musa
+            Amin guide you through your legal challenges with confidence and
+            expertise.
+          </p>
+          <p className="text-gray-700 text-lg leading-7 mb-6">
+            Advocate Mian Musa Amin is dedicated to ensuring justice and
+            protecting your rights with unwavering commitment and professionalism.
+          </p>
+       
           <Link href="/contact">
           <button className="bg-blue-700 text-white px-6 py-2 rounded-md mt-4 hover:bg-blue-800 transition duration-200">
             Book a Consultation
