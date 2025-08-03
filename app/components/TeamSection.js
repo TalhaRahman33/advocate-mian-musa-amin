@@ -7,35 +7,35 @@ const teamMembers = [
   {
     name: "Advocate Mian Musa Amin",
     role: "Founder & Senior Lawyer",
-    image: "/images/team1.jpg",
+    image: "/images/musa1.jpg",
     description:
       "Specialist in Criminal and Family Law with 10+ years of experience providing professional legal advice and representation.",
   },
   {
     name: "Sarah Khan",
     role: "Associate Lawyer",
-    image: "/images/team2.jpg",
+    image: "/images/musa2.jpg",
     description:
       "Expert in Corporate and Contract Law, dedicated to delivering strategic solutions for business clients.",
   },
   {
     name: "Ali Raza",
     role: "Legal Advisor",
-    image: "/images/team3.jpg",
+    image: "/images/musa3.jpg",
     description:
       "Focused on Property Disputes and Civil Litigation, ensuring clients receive fair representation and justice.",
   },
   {
     name: "Maria Ahmed",
     role: "Junior Lawyer",
-    image: "/images/team4.jpg",
+    image: "/images/musa4.jpg",
     description:
       "Assists in legal research, documentation, and client representation in civil and corporate cases.",
   },
   {
     name: "Hassan Malik",
     role: "Legal Consultant",
-    image: "/images/team5.jpg",
+    image: "/images/musa1.jpg",
     description:
       "Provides expert consultation and guidance for clients dealing with complex litigation and arbitration cases.",
   },

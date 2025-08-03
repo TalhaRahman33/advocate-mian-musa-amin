@@ -11,7 +11,7 @@ const AboutSection = () => {
         {/* Left Side - Image */}
         <div className="w-full md:w-1/2">
           <Image
-            src="/images/lawyer.jpg"
+            src="/images/musa1.jpg"
             width={500}
             height={500}
             alt="Advocate Mian Musa Amin"
