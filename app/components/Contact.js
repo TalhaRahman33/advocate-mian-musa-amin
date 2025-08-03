@@ -13,7 +13,7 @@ const Contact = () => {
           </p>
 
           <form
-            action="https://formsubmit.co/aimanmarjan777@gmail.com"
+            action="https://formsubmit.co/advmianmusaamin@gmail.com"
             method="POST"
             className="space-y-6"
           >

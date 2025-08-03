@@ -42,7 +42,7 @@ const Footer = () => {
           <h3 className="text-lg font-semibold text-white mb-3">Contact Info</h3>
           <p className="text-sm">📍 Office: Islamabad, Pakistan</p>
           <p className="text-sm">📞 Phone: +92 341 5732909</p>
-          <p className="text-sm">📧 Email: musaaminlaw@gmail.com</p>
+          <p className="text-sm">📧 Email: advmianmusaamin@gmail.com</p>
         </div>
       </div>
 
