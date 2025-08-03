@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const AboutSection = () => {
   return (
-    <section className="bg-gray-100 py-16 px-6">
+    <section className="bg-gray-100 py-16 px-6 pt-20">
       <div className="container mx-auto flex flex-col md:flex-row items-center gap-10 max-w-6xl">
         
         {/* Left Side - Image */}

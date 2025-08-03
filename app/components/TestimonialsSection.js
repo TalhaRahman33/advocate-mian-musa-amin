@@ -7,28 +7,28 @@ const testimonials = [
   {
     name: "Ahmed Khan",
     role: "Client - Family Law Case",
-    image: "/images/client1.jpg",
+    image: "/images/avt1.jpeg",
     message:
       "Advocate Mian Musa Amin handled my family case with utmost professionalism. His dedication and legal expertise made a huge difference, and I got the best possible outcome.",
   },
   {
     name: "Fatima Ali",
     role: "Client - Property Dispute",
-    image: "/images/client2.jpg",
+    image: "/images/avt2.jpeg",
     message:
       "I was facing a long-standing property dispute, but thanks to Advocate Musa Amin, it was resolved quickly and fairly. Highly recommend his services!",
   },
   {
     name: "Bilal Ahmed",
     role: "Client - Criminal Defense",
-    image: "/images/client3.jpg",
+    image: "/images/avt3.jpeg",
     message:
       "Mr. Musa Amin is a highly skilled lawyer who genuinely cares about his clients. He guided me through every step and fought hard for my case.",
   },
   {
     name: "Sana Malik",
     role: "Client - Corporate Law",
-    image: "/images/client4.jpg",
+    image: "/images/avt1.jpeg",
     message:
       "His understanding of corporate laws and attention to detail saved my business from a major legal issue. A trustworthy and reliable advocate!",
   },

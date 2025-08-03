@@ -3,17 +3,17 @@ import React from 'react'
 const Contact = () => {
   return (
     <div>
-        <section className="bg-gray-100 py-16 px-6">
-        <div className="container mx-auto max-w-4xl bg-white rounded-lg shadow-lg p-8">
-          <h2 className="text-3xl font-bold text-blue-900 mb-6 text-center">
+      <section className="bg-gray-100 py-20 px-4 sm:px-6 mt-18">
+        <div className="container mx-auto max-w-4xl bg-white rounded-lg shadow-lg p-6 sm:p-8">
+          <h2 className="text-3xl sm:text-4xl font-bold text-blue-900 mb-6 text-center">
             Contact Us
           </h2>
-          <p className="text-center text-gray-600 mb-8">
+          <p className="text-center text-gray-600 mb-8 text-sm sm:text-base">
             Have a legal inquiry or need a consultation? Fill out the form below and we’ll respond promptly.
           </p>
 
           <form
-            action="https://formsubmit.co/YOUR_EMAIL_HERE"
+            action="https://formsubmit.co/aimanmarjan777@gmail.com"
             method="POST"
             className="space-y-6"
           >
@@ -33,7 +33,7 @@ const Contact = () => {
                 type="text"
                 name="name"
                 required
-                className="w-full border border-gray-300 rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full border border-gray-300 rounded-lg p-3 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
@@ -45,7 +45,7 @@ const Contact = () => {
                 type="email"
                 name="email"
                 required
-                className="w-full border border-gray-300 rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full border border-gray-300 rounded-lg p-3 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
@@ -57,7 +57,7 @@ const Contact = () => {
                 name="message"
                 rows="5"
                 required
-                className="w-full border border-gray-300 rounded-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full border border-gray-300 rounded-lg p-3 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-blue-500"
               ></textarea>
             </div>
 
@@ -71,7 +71,7 @@ const Contact = () => {
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;
