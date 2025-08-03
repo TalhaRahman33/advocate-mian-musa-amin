@@ -43,7 +43,7 @@ const services = [
 
 const ServicesSection = () => {
   return (
-    <section className="bg-gray-100 py-24 px-4 sm:px-6 my-10">
+    <section className=" py-24 px-4 sm:px-6 ">
       <div className="container mx-auto max-w-6xl text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-blue-900 mb-6">
           Our Legal Services
